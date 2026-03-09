@@ -1,4 +1,4 @@
-# Leave Management System
+# Leave Management System  [[LIVE](https://leave-request-management-app.onrender.com)]
 
 A simple web application where employees can apply for leave and employers can review, approve, or reject those requests.  
 The system includes authentication, role-based access control, and a minimal user interface focused on functionality.
